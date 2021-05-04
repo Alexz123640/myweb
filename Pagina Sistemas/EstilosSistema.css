@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    font-family: 'Lato', sans-serif;
+    
+}
+.col-5{
+    margin: 2%;
+}

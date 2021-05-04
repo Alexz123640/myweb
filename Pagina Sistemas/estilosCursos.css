@@ -1,0 +1,20 @@
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.col-12{
+    margin: 6%;
+}
+h6{
+    font-family: inherit;
+}
+.row_bb{
+    margin: 5%;
+}
+h5{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkgray;
+}
+.sombra_contac_ob h6{
+    font-family: monospace;
+    color: cornflowerblue;
+}

@@ -1,0 +1,12 @@
+.col
+{
+    background: darkcyan;
+    border: solid 1ch black;
+    height: 9em;
+}
+.style
+{
+    background: rgb(31, 56, 138);
+    border: solid 1ch rgb(255, 255, 255);
+    height: 7em;
+}

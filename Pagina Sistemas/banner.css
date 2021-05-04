@@ -1,0 +1,55 @@
+.cont_banner{
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("image/programador1.jpg");
+}
+.sombra{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -ms-transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    padding: 30px;
+    width: 50%;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.466);
+    color:white;
+    margin: auto;
+}
+.sombra_contac{
+    position: absolute;
+    left: 50%;
+    top: 60%;
+    -ms-transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    padding: 120px;
+    width: 40%;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.623);
+    color:white;
+    margin: auto;
+}
+.banner_contac{
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("image/utp.jpg");
+}
+.sombra_contac_ob {
+    margin: 15px;
+    position:relative;
+}
+.sombra_contac_ob p{
+    display: inline-block;
+    color: aliceblue;
+    text-decoration: none;
+    border: 1px solid cornsilk;
+    padding: 1px;
+    margin-bottom: 5px;
+    width: 170px;
+}
