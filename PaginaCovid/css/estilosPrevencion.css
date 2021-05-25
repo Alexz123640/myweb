@@ -1,43 +1,14 @@
 
 .header{
-    background-color: #102847 ;
-    color: #17a69e;
+    font-family: 'Slabo 27px', serif;
+    background-color: #102847 !important;
+    color: #00504c;
     padding: 2rem 0;
     position: fixed ;
     left: 0;
     top: 0;
     right: 0%;
 }
-.header a{
-    color: #17a69e;
-    text-decoration: none;
-    
-}
-.header a:hover{
-    color: aliceblue;
-    background-color: 102847;
-}
-.logo-nav-container{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-.logo{
-    letter-spacing: 10px;
-    font-size: 1em;
-}
-.navigation ul{
-    margin: 0;
-    padding: 0;
-    list-style: none;
-}
-.navigation ul li{
-    display: inline-block;
-}
-.navigation ul li a{
-    display: block;
-    padding: 0rem 1rem;
-}    
 
 
 /*parte del main*/    
