@@ -1,13 +1,8 @@
-
 .header{
     font-family: 'Slabo 27px', serif;
     background-color: #102847 !important;
     color: #00504c;
-    padding: 2rem 0;
-    position: fixed ;
-    left: 0;
-    top: 0;
-    right: 0%;
+    padding: 2rem 0;    
 }
 
 
