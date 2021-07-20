@@ -10,5 +10,5 @@ btnToggle.addEventListener("click", function () {
   console.log(document.getElementById('sidebar'))
 });
 
-swal ( " ¡Estamos contigo en esto! " ) ;
+
 

@@ -6,10 +6,8 @@
     box-sizing: border-box;
 }
 .container-footer{
-    max-width: 1170px;
-    
-    margin: auto;
-    
+    max-width: 1170px;    
+    margin: auto;    
 }
 ul{
     list-style: none;

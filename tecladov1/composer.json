@@ -1,0 +1,20 @@
+{
+    "name": "UTP/Tienda-Teclado",
+    "description": "creacion de una tienda online",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Cordova Huaracha",
+            "email": "alwx162@gmail.com"
+        }
+    ],
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "Kawschool\\":"src/"
+        }
+    }
+}
